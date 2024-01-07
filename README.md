@@ -16,7 +16,7 @@ several enhancements for Japanese from somewhere on internet
  - Set the audio_path and language variables, and then run the Run Whisper cell. (Note: Audio path is set automatically if you use the Upload cell)
  - Once it's done, the notebook will automatically download the generated SRT file.
 
-bonus: youtube version [![Open In Colab][colab-badge]][yt-notebook] inspired from https://github.com/ArthurFDLR/whisper-youtube
+~~bonus: youtube version [![Open In Colab][colab-badge]][yt-notebook] inspired from https://github.com/ArthurFDLR/whisper-youtube~~ (currently not working)
 
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 [colab-notebook]: <https://colab.research.google.com/github/phineas-pta/VwArship/blob/main/WhisperWithVAD.ipynb>
